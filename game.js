@@ -60,6 +60,8 @@ up:    Jump
 left:  Move Left
 right: Move Right
 space: Attack
+spawn enemy: T
+spawn boss: B
     `.trim(), 10),
     origin("botleft"),
     pos(4, height() - 4),
